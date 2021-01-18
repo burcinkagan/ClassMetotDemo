@@ -51,13 +51,7 @@ namespace ClassMetotDemo
             }
 
             Console.WriteLine("\n************MÜŞTERİ BİLGİLERİNİ LİSTELEME************\n");
-
-            musteriManager.MusteriListesi(musteriler);
-            
-
-
-
-
+            musteriManager.MusteriListesi(musteriler);   
         }
     }
 }

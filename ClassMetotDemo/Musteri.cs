@@ -10,6 +10,5 @@ namespace ClassMetotDemo
         public string MusteriAdi { get; set; }
         public string MusteriSoyad { get; set; }
         public string MusteriAdres { get; set; }
-
     }
 }

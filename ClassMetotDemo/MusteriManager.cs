@@ -25,9 +25,7 @@ namespace ClassMetotDemo
                 Console.WriteLine("Müşteri Soyadı: " + musteri.MusteriSoyad);
                 Console.WriteLine("Müşteri Adres: " + musteri.MusteriAdres);
                 Console.WriteLine("****************************************");
-
-            }
-            
+            }    
         }
     }
 }
